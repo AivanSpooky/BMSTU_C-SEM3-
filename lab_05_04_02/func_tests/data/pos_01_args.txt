@@ -1,0 +1,1 @@
+ft ../data/pos_01_in.txt ke

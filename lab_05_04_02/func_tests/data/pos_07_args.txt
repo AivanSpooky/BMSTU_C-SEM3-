@@ -1,0 +1,1 @@
+ft ../data/pos_07_in.txt se

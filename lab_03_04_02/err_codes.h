@@ -1,0 +1,11 @@
+#ifndef __ERR_CODES_H__
+
+#define __ERR_CODES_H__
+
+#define OK 0
+#define ERR_IO 1
+#define ERR_RANGE 2
+#define ERR_NOT_EQUAL 3
+#define ERR_NO_NUM 4
+
+#endif

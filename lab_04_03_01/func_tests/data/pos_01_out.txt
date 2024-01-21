@@ -1,0 +1,1 @@
+Result: qdp abc ab a 1

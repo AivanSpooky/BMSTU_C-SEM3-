@@ -1,0 +1,1 @@
+ft ../data/neg_06_in.txt A

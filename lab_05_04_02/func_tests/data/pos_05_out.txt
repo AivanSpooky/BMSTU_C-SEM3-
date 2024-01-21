@@ -1,0 +1,16 @@
+1seed
+VNS
+100
+1
+2seed
+OMEN
+100
+2
+3seed
+OK
+100
+3
+4seed
+four
+100
+4
